@@ -74,7 +74,7 @@ DATA FIT
 ACCURACY
 ### ![169513079-42266498-9323-4a5a-87d6-94ba3815d40b](https://github.com/shivanshyam79/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/151513860/7c0ce944-8ca0-47fb-a426-fba34db9ffea)
 PREDICTED VALUES
-### ![169514059-120bf7f7-e57d-4726-b459-4d9a39cdfd2d](https://github.com/shivanshyam79/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/151513860/ae74053c-329f-45e2-9c4b-e143a50dcb30)
+###  ![169514059-120bf7f7-e57d-4726-b459-4d9a39cdfd2d](https://github.com/shivanshyam79/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/151513860/ae74053c-329f-45e2-9c4b-e143a50dcb30)
 
 
 ## Result:
