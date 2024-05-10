@@ -8,22 +8,22 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1.Import the standard libraries.
+## step 1.Import the standard libraries.
 
-2.Upload the dataset and check for any null values using .isnull() function.
+## step 2.Upload the dataset and check for any null values using .isnull() function.
 
-3.Import LabelEncoder and encode the dataset.
+## step 3.Import LabelEncoder and encode the dataset.
 
-4.Import DecisionTreeClassifier from sklearn and apply the model on the dataset.
+## step 4.Import DecisionTreeClassifier from sklearn and apply the model on the dataset.
 
-5.Predict the values of array.
+## step 5.Predict the values of array.
 
-6.Import metrics from sklearn and calculate the accuracy of the model on the dataset.
+## step 6.Import metrics from sklearn and calculate the accuracy of the model on the dataset.
 
-7.Predict the values of array.
+## step 7.Predict the values of array.
 
-8.Apply to new unknown values.
-
+## step 8.Apply to new unknown values.
+## step 9stop
 
 ## Program:
 ```
